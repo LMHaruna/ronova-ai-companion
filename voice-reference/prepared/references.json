@@ -1,0 +1,22 @@
+{
+  "references": [
+    {
+      "id": "B",
+      "path": "voice-reference\\prepared\\B.wav",
+      "seconds": 8.46,
+      "text": "喂，你在听我说话吗？哼，不讨喜的家伙。"
+    },
+    {
+      "id": "A",
+      "path": "voice-reference/prepared/A.wav",
+      "seconds": 7.14,
+      "text": "你在试图理解神的想法。好吧，那我就告诉你。"
+    },
+    {
+      "id": "C",
+      "path": "voice-reference/prepared/C.wav",
+      "seconds": 9.0,
+      "text": "我对近距离观赏这场死亡戏剧很感兴趣。甚至还引导你们把舞台作为主要活动。"
+    }
+  ]
+}

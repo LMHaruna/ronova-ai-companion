@@ -1,0 +1,56 @@
+# Bundled environments, models, caches and verification artifacts belong in release packages.
+/runtime/
+/dist/
+/release/
+/releases/
+
+# Local user data and account-specific configuration.
+/data/
+/config/client-preferences.json
+/config/client-models.bin*
+/config/realtime-voice.json
+/config/qwen-voice-enrollment.json
+*.sqlite3
+*.sqlite3-*
+
+# Original materials and audition/verification output.
+/image-reference/
+/voice-audition/
+/verification/
+/voice-reference/*.wav
+/voice-reference/audio-inventory*
+/voice-reference/prepared/transcripts.json
+
+# Credentials and local assistant settings.
+.env
+.env.*
+!.env.example
+.git-credentials
+*.pem
+*.p12
+*.pfx
+/credentials/
+/.codex/
+/.agents/
+/.aws/
+/.ssh/
+
+# Generated files and local development artifacts.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+*.log
+*.tmp
+*.bak
+*.backup
+*.download-part
+*.part
+*.7z
+*.zip
+Thumbs.db
+desktop.ini
+.DS_Store

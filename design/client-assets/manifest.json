@@ -1,0 +1,337 @@
+{
+  "figma_file": "VkCodsizqY8W6wGs7uOJb1",
+  "figma_node": "60:2",
+  "assets": [
+    {
+      "name": "imgPortraitFrom161923V42",
+      "file": "../character-final/portrait-from-161923-v4.png",
+      "bytes": 2038300,
+      "sha256": "24028033a3b030dd76350a742d462c2cb0e0ce246d5fe2e289222975fa1469c6",
+      "width": 1120,
+      "height": 1404
+    },
+    {
+      "name": "imgAvatarRonovaOfficial",
+      "file": "../character-final/avatar-ronova-chibi.png",
+      "bytes": 1981453,
+      "sha256": "aa1dd3510a723362c7f18e15345b2ce5759f018fb6e290e04884bd2f7ec04c4b",
+      "source": "User-approved chibi avatar, generated with the built-in image_gen tool on 2026-10-15",
+      "references": [
+        "image-reference/官方图.jpg",
+        "image-reference/屏幕截图 2026-10-02 161938.png",
+        "image-reference/屏幕截图 2026-10-02 163209.png"
+      ],
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "name": "imgCallIdleBlurV10",
+      "file": "imgCallIdleBlurV10.svg",
+      "bytes": 240,
+      "sha256": "bc19b5d73ae9b49ad14fd4cdf195627c93c46f9e5d0e4f9f152e3d0abae6b77a",
+      "width": "1280",
+      "height": "802",
+      "viewBox": "0 0 1280 802"
+    },
+    {
+      "name": "imgVector",
+      "file": "imgVector.svg",
+      "bytes": 237,
+      "sha256": "389288bb2c65abeda38b96ff98e2f56fd3e34d0b158ecd9878b590afb725b561",
+      "width": "1280",
+      "height": "64",
+      "viewBox": "0 0 1280 64"
+    },
+    {
+      "name": "imgVector1",
+      "file": "imgVector1.svg",
+      "bytes": 327,
+      "sha256": "d186a8962f21313e6a1039439fac4b3d2fcea10e2beed5f3263589708932162c",
+      "width": "86",
+      "height": "40",
+      "viewBox": "0 0 86 40"
+    },
+    {
+      "name": "imgVector2",
+      "file": "imgVector2.svg",
+      "bytes": 386,
+      "sha256": "1076e818a0ca097562e383b687bc3c6b6ce8e685366ab45d544e0897a831fa0d",
+      "width": "17.8",
+      "height": "17.8",
+      "viewBox": "0 0 17.8 17.8"
+    },
+    {
+      "name": "imgVector3",
+      "file": "imgVector3.svg",
+      "bytes": 374,
+      "sha256": "a40ef471787eb650839c47347903e7450dc95b33fed874494a5f77ebac050d3e",
+      "width": "5.19995",
+      "height": "5.2",
+      "viewBox": "0 0 5.19995 5.2"
+    },
+    {
+      "name": "imgVector4",
+      "file": "imgVector4.svg",
+      "bytes": 513,
+      "sha256": "81a9554ebeebba840bc831bb866be08fcc9f256b8586bba0022bb38dc8bb4a2f",
+      "width": "1280",
+      "height": "738",
+      "viewBox": "0 0 1280 738"
+    },
+    {
+      "name": "imgPortraitFrom161923V41",
+      "file": "imgPortraitFrom161923V41.svg",
+      "bytes": 510,
+      "sha256": "c3ecc1396319aeb442c09dc340957c15977c53c4816ec4b20fb2632b60ce8f68",
+      "width": "597",
+      "height": "739.431",
+      "viewBox": "0 0 597 739.431"
+    },
+    {
+      "name": "imgVector5",
+      "file": "imgVector5.svg",
+      "bytes": 702,
+      "sha256": "c27fe6e9ba0e26ea2ef67d0d097e7044f486c847e476f69f6eea8df457c96e92",
+      "width": "520",
+      "height": "520",
+      "viewBox": "0 0 520 520"
+    },
+    {
+      "name": "imgVector6",
+      "file": "imgVector6.svg",
+      "bytes": 402,
+      "sha256": "363e0d84c9775acfafe529663c18179412cb238290f6538d2f51448979eb8308",
+      "width": "340",
+      "height": "709",
+      "viewBox": "0 0 340 709"
+    },
+    {
+      "name": "imgVector7",
+      "file": "imgVector7.svg",
+      "bytes": 371,
+      "sha256": "24797c42d0d48bc7177c763ef3310366f53473d82b616b12f481c574f1456180",
+      "width": "324",
+      "height": "693",
+      "viewBox": "0 0 324 693"
+    },
+    {
+      "name": "imgVector8",
+      "file": "imgVector8.svg",
+      "bytes": 636,
+      "sha256": "dd8aae8d246c68cfb60562f63d2aa49861a3973c4d150679053ccd7b1d0a1c77",
+      "width": "312",
+      "height": "681",
+      "viewBox": "0 0 312 681"
+    },
+    {
+      "name": "imgVector9",
+      "file": "imgVector9.svg",
+      "bytes": 640,
+      "sha256": "97b4f358c112a6085c4b1020a92ea8b1c113a244fa501113d0a14ede3b6407e6",
+      "width": "370",
+      "height": "370",
+      "viewBox": "0 0 370 370"
+    },
+    {
+      "name": "imgVector10",
+      "file": "imgVector10.svg",
+      "bytes": 338,
+      "sha256": "9612ddff399bbae4f64e088c59769728c3285c1481cc105eea0cef69b9782e1f",
+      "width": "104",
+      "height": "25",
+      "viewBox": "0 0 104 25"
+    },
+    {
+      "name": "imgVector11",
+      "file": "imgVector11.svg",
+      "bytes": 396,
+      "sha256": "43ad6636574a6ffca91cf57fef14b9d3db230be39d644527bc12a6265c7cd60e",
+      "width": "5.59998",
+      "height": "5.60001",
+      "viewBox": "0 0 5.59998 5.60001"
+    },
+    {
+      "name": "imgVector12",
+      "file": "imgVector12.svg",
+      "bytes": 397,
+      "sha256": "71bf1088abc4bbe15464a938a0c6457d1b9b7f1d4d691388bf2390fd5bd0fe96",
+      "width": "17.7",
+      "height": "8.7",
+      "viewBox": "0 0 17.7 8.7"
+    },
+    {
+      "name": "imgVector13",
+      "file": "imgVector13.svg",
+      "bytes": 324,
+      "sha256": "acb3c2504f9283f672a2e4a1f37782e5efea6ba0569af2e2d609b34737c5c128",
+      "width": "3",
+      "height": "3",
+      "viewBox": "0 0 3 3"
+    },
+    {
+      "name": "imgVector14",
+      "file": "imgVector14.svg",
+      "bytes": 428,
+      "sha256": "fafd6d54979f66c3e69a738f6fa66d7b093f06961fd0e199c4d5692eb70173ee",
+      "width": "26.5",
+      "height": "14.5",
+      "viewBox": "0 0 26.5 14.5"
+    },
+    {
+      "name": "imgVector15",
+      "file": "imgVector15.svg",
+      "bytes": 330,
+      "sha256": "36c3fc56a02af1a780f74c83dcaf074765b49cc846a731a637174b2543c6060c",
+      "width": "18",
+      "height": "7",
+      "viewBox": "0 0 18 7"
+    },
+    {
+      "name": "imgVector16",
+      "file": "imgVector16.svg",
+      "bytes": 351,
+      "sha256": "fa37cbb353bef29800b9469d6d02a30fba6479c941f9f9a54729d9be6dcd2a01",
+      "width": "198",
+      "height": "198",
+      "viewBox": "0 0 198 198"
+    },
+    {
+      "name": "imgVector17",
+      "file": "imgVector17.svg",
+      "bytes": 337,
+      "sha256": "796082438df0b189091858781783f632a93cad7caa8ab46c8b5fbff1d917faac",
+      "width": "176",
+      "height": "176",
+      "viewBox": "0 0 176 176"
+    },
+    {
+      "name": "imgVector18",
+      "file": "imgVector18.svg",
+      "bytes": 370,
+      "sha256": "ca84b06be76d773c7c09d6fab019328ebfff81e235c26d8a1ee749db50725b0f",
+      "width": "178",
+      "height": "178",
+      "viewBox": "0 0 178 178"
+    },
+    {
+      "name": "imgVector19",
+      "file": "imgVector19.svg",
+      "bytes": 358,
+      "sha256": "42a6f5aba3fd0b3ec4f5f75f786e3a08e73f967fc81fa4e6c2e8256d413e4e0d",
+      "width": "182",
+      "height": "61",
+      "viewBox": "0 0 182 61"
+    },
+    {
+      "name": "imgVector20",
+      "file": "imgVector20.svg",
+      "bytes": 326,
+      "sha256": "9350deececfcf08ec609e2857bf11d315e9053775ee7db0cafaea43ac7218eab",
+      "width": "60",
+      "height": "60",
+      "viewBox": "0 0 60 60"
+    },
+    {
+      "name": "imgVector21",
+      "file": "imgVector21.svg",
+      "bytes": 416,
+      "sha256": "32de4351ef937b3afe13db1c7536a9fae13a0a4ff1e597992d8f91f42ec748d0",
+      "width": "12.3",
+      "height": "21.3",
+      "viewBox": "0 0 12.3 21.3"
+    },
+    {
+      "name": "imgVector22",
+      "file": "imgVector22.svg",
+      "bytes": 477,
+      "sha256": "3439dc4e459e362ce38ad4171ebaee6acaecf465c7b5900e09691f77c8879cab",
+      "width": "24.3001",
+      "height": "20.3001",
+      "viewBox": "0 0 24.3001 20.3001"
+    },
+    {
+      "name": "imgVector23",
+      "file": "imgVector23.svg",
+      "bytes": 326,
+      "sha256": "6577773b3325bed558b0f278629e99189a80122d4c1f5349a87eb73f8eb2de80",
+      "width": "60",
+      "height": "60",
+      "viewBox": "0 0 60 60"
+    },
+    {
+      "name": "imgVector24",
+      "file": "imgVector24.svg",
+      "bytes": 523,
+      "sha256": "432c5815eb3294842e93b2078a130876bd264517641fac4e850fc651b5874989",
+      "width": "30.3001",
+      "height": "14.55",
+      "viewBox": "0 0 30.3001 14.55"
+    },
+    {
+      "name": "imgVector25",
+      "file": "imgVector25.svg",
+      "bytes": 491,
+      "sha256": "041bad72c43d89f76eb16303bd636f7cd6c4a0990af6de7141f79593ab6db4da",
+      "width": "29.3",
+      "height": "35.3",
+      "viewBox": "0 0 29.3 35.3"
+    },
+    {
+      "name": "imgVector26",
+      "file": "imgVector26.svg",
+      "bytes": 324,
+      "sha256": "917f28ca9344d508fe50896ea6d2e5a1ccfe04e756092e6d82bebeed3c7761e7",
+      "width": "3",
+      "height": "3",
+      "viewBox": "0 0 3 3"
+    },
+    {
+      "name": "imgVector27",
+      "file": "imgVector27.svg",
+      "bytes": 337,
+      "sha256": "dc9317c4a3e0fe419eba792299c30bd9274f316574ac170c44681faa62d6c3d9",
+      "width": "86",
+      "height": "4",
+      "viewBox": "0 0 86 4"
+    },
+    {
+      "name": "imgPortraitFamiliarFinal",
+      "file": "../character-final/portrait-familiar-final.png",
+      "bytes": 2298403,
+      "sha256": "e6f4cb6a3fd8831cc6bf05025b2e18df985069113d4996f60f9171b79d307eb5",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "name": "imgPortraitCloseFinal",
+      "file": "../character-final/portrait-close-final.png",
+      "bytes": 2451650,
+      "sha256": "59c0f14d54d86051b4a8c18e0400bcc209e090e3cdac673a6852299754654bd2",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "name": "imgPortraitAngryFinal",
+      "file": "../character-final/portrait-angry-final.png",
+      "bytes": 2172201,
+      "sha256": "8cad362c9993a1d114ee2adadf4e35e1b061957d12a4b6b3e9233e18586175ed",
+      "width": 1064,
+      "height": 1478
+    },
+    {
+      "name": "imgPortraitBondFinal",
+      "file": "../character-final/portrait-bond-final.png",
+      "bytes": 4954280,
+      "sha256": "7f28ce6059248d47d6392729055bd61ed68ba420875e08aac98e13e93c594147",
+      "width": 1664,
+      "height": 2340
+    }
+  ],
+  "relationship_portraits": {
+    "acquaintance": "imgPortraitFrom161923V42",
+    "familiar": "imgPortraitFamiliarFinal",
+    "close": "imgPortraitCloseFinal",
+    "angry": "imgPortraitAngryFinal",
+    "bond": "imgPortraitBondFinal"
+  }
+}

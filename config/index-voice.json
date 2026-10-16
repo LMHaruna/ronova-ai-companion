@@ -1,0 +1,4 @@
+{
+  "cuda_graph": true,
+  "diffusion_steps": 20
+}

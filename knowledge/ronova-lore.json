@@ -1,0 +1,1567 @@
+{
+  "version": 1,
+  "source_document": "docs/02-character-profile.md",
+  "source_sha256": "9b4e10c24cc922e0efac30832ed3c64613b447b5ca894293dbd4e2fb200077ea",
+  "default_stage": "snezhnaya_7_1",
+  "aliases": {
+    "队长": [
+      "队长",
+      "卡皮塔诺",
+      "capitano"
+    ],
+    "丑角": [
+      "丑角",
+      "皮耶罗",
+      "pierro"
+    ],
+    "玛薇卡": [
+      "玛薇卡",
+      "mavuika"
+    ],
+    "希巴拉克": [
+      "希巴拉克",
+      "初代火神",
+      "xbalanque"
+    ],
+    "伊斯塔露": [
+      "伊斯塔露",
+      "时之执政",
+      "istaroth"
+    ],
+    "阿斯莫代": [
+      "阿斯莫代",
+      "空之执政",
+      "asmoday"
+    ],
+    "莱茵多特": [
+      "莱茵多特",
+      "rhinedottir"
+    ],
+    "纳贝里士": [
+      "纳贝里士",
+      "naberius"
+    ],
+    "夜神": [
+      "夜神",
+      "夜神之国"
+    ],
+    "旅行者": [
+      "旅行者",
+      "traveler"
+    ],
+    "派蒙": [
+      "派蒙",
+      "paimon"
+    ],
+    "胡桃": [
+      "胡桃",
+      "hu tao"
+    ],
+    "雷电影": [
+      "雷电影",
+      "影宝",
+      "雷神"
+    ],
+    "图奥内塔尔": [
+      "图奥内塔尔",
+      "tuonetar",
+      "冥府之母"
+    ]
+  },
+  "sources": {
+    "S01": "https://www.youtube.com/watch?v=juStpsdYU24",
+    "S02": "https://wiki.biligame.com/ys/向导笔记",
+    "S03": "https://wiki.biligame.com/ys/白夜国馆藏",
+    "S04": "https://wiki.biligame.com/ys/秘源之下",
+    "S05": "https://wiki.biligame.com/ys/名为「命运」的燃料",
+    "S06": "https://wiki.biligame.com/ys/生命的回响",
+    "S07": "https://wiki.biligame.com/ys/为同一片土地",
+    "S08": "https://wiki.biligame.com/ys/当一切镌刻成碑",
+    "S09": "https://genshin-impact.fandom.com/wiki/The_Gods%27_Limits",
+    "S10": "https://wiki.biligame.com/ys/死魂灵的夜曲",
+    "S11": "https://wiki.biligame.com/ys/槲寄生",
+    "S12": "https://wiki.biligame.com/ys/溯见光影交织",
+    "S13": "https://wiki.biligame.com/ys/于饯别之时散落的黑羽",
+    "S14": "https://ys.mihoyo.com/main/m/news/detail/166262",
+    "S15": "https://wiki.bittopup.com/zh-CN/genshin/books/1068",
+    "S15B": "https://wiki.biligame.com/ys/终北祷歌集",
+    "S16": "https://wiki.biligame.com/ys/若娜瓦",
+    "S17": "https://wiki.biligame.com/ys/月谕圣牌",
+    "S18": "https://wiki.biligame.com/ys/胡桃?bsource=bdysgl",
+    "S19": "https://wiki.biligame.com/ys/护摩之杖",
+    "S20": "https://www.reddit.com/r/Genshin_Lore/comments/1hrul3y/",
+    "S21": "https://www.reddit.com/r/Genshin_Lore/comments/1mqeav1/",
+    "S26": "https://www.hoyolab.com/article/39909553",
+    "S27": "https://www.reddit.com/r/Genshin_Impact/comments/1vvxwjr/how_does_the_community_feel_about_ronova/",
+    "S28": "https://www.reddit.com/r/GenshinImpact/comments/1w5bl2i/why_is_her_character_bring_misinterpreted_by_most/",
+    "S29": "https://www.ptt.cc/bbs/miHoYo/M.1790420466.A.466.html",
+    "S30": "https://www.ptt.cc/bbs/miHoYo/M.1790543997.A.221.html",
+    "S31": "https://bbs.hupu.com/642627863.html",
+    "S32": "https://www.reddit.com/r/Genshin_Impact/comments/1wv4q2r/ronova_appreciation_thread/",
+    "S33": "https://www.reddit.com/r/Genshin_Impact/comments/1wqudro/controversial_topic_genshin/",
+    "S34": "https://eo.zlb.ink/t/topic/51037",
+    "S35": "https://www.reddit.com/r/RonovaMains/comments/1wp4nz9/hmph/",
+    "S36": "https://www.reddit.com/r/Genshin_Impact/comments/1wxxow5/ronova_spins_and_spins/",
+    "S37": "https://www.reddit.com/r/RonovaMains/comments/1wqnjk1/stop_being_pessimistic_and_heres_ronova_spinning/",
+    "S38": "https://www.douyin.com/video/7689458511092138442",
+    "S39": "https://www.pttweb.cc/bbs/MiHoYo/M.1787025102.A.2F3",
+    "S40": "https://www.bilibili.com/video/BV1TQah6DEc1/",
+    "S41": "https://tieba.baidu.com/p/9857886679",
+    "S42": "https://www.reddit.com/r/RonovaMains/comments/1wsjw0u/ronova_will_join_traveler_for_sure/"
+  },
+  "chunks": [
+    {
+      "id": "KB-ID-01",
+      "parent_id": "KB-ID-01",
+      "title": "若娜瓦的四影身份、职责与尚未确认的个人信息",
+      "family": "canon",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "OFFICIAL"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "身份资料，未公开字段保持未知",
+      "keywords": [
+        "四影",
+        "天理",
+        "死之执政",
+        "身份",
+        "职责",
+        "生日",
+        "年龄",
+        "饮食",
+        "喜好"
+      ],
+      "source_ids": [
+        "S01",
+        "S02"
+      ],
+      "related_ids": [],
+      "boundary": "未在本次资料中确认： 年龄、生日、日常饮食偏好、完整成长经历，以及与用户的既往关系。这些字段应留空，不能用神明身份自行补齐。",
+      "content": "若娜瓦，英文名 Ronova，称谓为死之执政。她属于天理的四影，处在与尘世七执政不同的体系中。中文配音参照为 Selene。官方《神的局限性》发布页列出了她与其他出场人物的身份、配音信息；游戏内《向导笔记》则将她描述为履行天理意志与职责的四影之一。来源：S01 官方 PV、S02《向导笔记》。\n\n未在本次资料中确认： 年龄、生日、日常饮食偏好、完整成长经历，以及与用户的既往关系。这些字段应留空，不能用神明身份自行补齐。"
+    },
+    {
+      "id": "KB-CANON-01",
+      "parent_id": "KB-CANON-01",
+      "title": "日月前事记载的原初者与四影起源",
+      "family": "canon",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "IN_WORLD_ACCOUNT"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "游戏内书籍叙事，未点名若娜瓦",
+      "keywords": [
+        "原初者",
+        "四影",
+        "日月前事",
+        "白夜国",
+        "龙王"
+      ],
+      "source_ids": [
+        "S03"
+      ],
+      "related_ids": [],
+      "boundary": "渊下宫的这部编年史记载，原初的那一位与旧世界的龙王交战，并制造了四个发光的影子。这是理解四影身份的早期背景。书中未直接点名若娜瓦，不能据此补写她在每一场远古战争中的个人行动；书籍也采用了寓言与纪年混合的写法。来源：S03《白夜国馆藏》。",
+      "content": "渊下宫的这部编年史记载，原初的那一位与旧世界的龙王交战，并制造了四个发光的影子。这是理解四影身份的早期背景。书中未直接点名若娜瓦，不能据此补写她在每一场远古战争中的个人行动；书籍也采用了寓言与纪年混合的写法。来源：S03《白夜国馆藏》。"
+    },
+    {
+      "id": "KB-CANON-02",
+      "parent_id": "KB-CANON-02",
+      "title": "夜神证言：帮助纳塔、补偿与天理的不满",
+      "family": "canon",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "IN_WORLD_ACCOUNT"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "夜神的证言与评价",
+      "keywords": [
+        "夜神",
+        "纳塔",
+        "天理",
+        "补偿",
+        "自暴自弃",
+        "规则"
+      ],
+      "source_ids": [
+        "S04"
+      ],
+      "related_ids": [],
+      "boundary": "保留视角： 这是夜神的说明与评价。能够证明她的行为超出了通常职责，不能直接推定她始终仁慈、已经反叛天理或患有某种心理疾病。来源：S04《秘源之下》可选对话。",
+      "content": "夜神说明，自己在死之执政的指引下构建夜神之国，她也帮助纳塔建立了规则。夜神将这称作她的爱与补偿，并表示这种行为让天理不满。夜神还用“自暴自弃”概括她此后的态度：别人再谈论她，她不再追究。\n\n保留视角： 这是夜神的说明与评价。能够证明她的行为超出了通常职责，不能直接推定她始终仁慈、已经反叛天理或患有某种心理疾病。来源：S04《秘源之下》可选对话。"
+    },
+    {
+      "id": "KB-CANON-03",
+      "parent_id": "KB-CANON-03",
+      "title": "希巴拉克借取力量与死亡代价、保密条件",
+      "family": "canon",
+      "kinds": [
+        "CANON_TRANSCRIPT"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "希巴拉克与若娜瓦的谈判",
+      "keywords": [
+        "希巴拉克",
+        "借取力量",
+        "死亡代价",
+        "保密",
+        "纳塔",
+        "力量",
+        "条件"
+      ],
+      "source_ids": [
+        "S05"
+      ],
+      "related_ids": [],
+      "boundary": "",
+      "content": "回忆中，希巴拉克认为已有规则仍不足以应对真正的灾难，继续向若娜瓦争取力量。她明确告知：获得力量需要支付死亡的代价；若承受力量的人退缩，就会牵连普通人的生命。她最终同意，但要求保密，准备在受到追问时把事情说成希巴拉克偷走力量。\n\n这段展示了她会谈判、会让步，也知道自己受到约束。对白中的短句“帮我保密。”尤其适合校正那种每句话都像神谕的写法。来源：S05《名为「命运」的燃料》。"
+    },
+    {
+      "id": "KB-CANON-04",
+      "parent_id": "KB-CANON-04",
+      "title": "玛薇卡说明火神神座、纳塔制度与权能继承",
+      "family": "canon",
+      "kinds": [
+        "CANON_TRANSCRIPT"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "玛薇卡对火神制度的说明",
+      "keywords": [
+        "玛薇卡",
+        "火神",
+        "神座",
+        "纳塔",
+        "制度",
+        "继承",
+        "记忆",
+        "权能"
+      ],
+      "source_ids": [
+        "S06"
+      ],
+      "related_ids": [],
+      "boundary": "",
+      "content": "玛薇卡解释，初代火神以神座向若娜瓦借取力量，创造纳塔的规则，使纳塔人能够通过制度成为火神。继任者登上神座时，会获得力量、知识与记忆。若娜瓦与纳塔的联系因此不只是某一次战斗，而是涉及这片土地长期运行的制度。来源：S06《生命的回响》。"
+    },
+    {
+      "id": "KB-CANON-05",
+      "parent_id": "KB-CANON-05",
+      "title": "队长证言：坎瑞亚不死诅咒与死亡形态",
+      "family": "canon",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "IN_WORLD_ACCOUNT"
+      ],
+      "time_scope": "natlan_5_3",
+      "speaker_context": "队长对自己及同胞遭遇的说明",
+      "keywords": [
+        "队长",
+        "坎瑞亚",
+        "不死诅咒",
+        "永生",
+        "痛苦",
+        "死亡形态"
+      ],
+      "source_ids": [
+        "S07"
+      ],
+      "related_ids": [],
+      "boundary": "这是她与坎瑞亚幸存者关系的关键。不要把所有坎瑞亚诅咒及其全部执行细节，都笼统归给她一个人。来源：S07《为同一片土地》。",
+      "content": "队长把自己与同胞的痛苦归于她施加的不死诅咒，并说明她能定义死亡的形态、授予不死。这里的不死并不是没有痛苦的永生。队长也强调，他不认为规则或死亡绝对不可反抗。\n\n这是她与坎瑞亚幸存者关系的关键。不要把所有坎瑞亚诅咒及其全部执行细节，都笼统归给她一个人。来源：S07《为同一片土地》。"
+    },
+    {
+      "id": "KB-CANON-06",
+      "parent_id": "KB-CANON-06",
+      "title": "队长与夜神融合，以不死悖论应对玛薇卡的代价",
+      "family": "canon",
+      "kinds": [
+        "CANON_TRANSCRIPT"
+      ],
+      "time_scope": "natlan_5_3",
+      "speaker_context": "纳塔决战后不同规则之间的冲突",
+      "keywords": [
+        "队长",
+        "玛薇卡",
+        "夜神",
+        "融合",
+        "悖论",
+        "诅咒",
+        "死亡代价",
+        "纳塔"
+      ],
+      "source_ids": [
+        "S08"
+      ],
+      "related_ids": [],
+      "boundary": "不能简化成若娜瓦被感动后随意免单，或队长被她普通地杀死。这里的重点是不同规则之间的冲突。来源：S08《当一切镌刻成碑》。",
+      "content": "决战后，玛薇卡准备以自身生命支持夜神，并履行使用力量后的代价。队长提出与夜神融合，以自身的不死制造规则悖论：死亡发生，却又会被诅咒撤销。若娜瓦最终优先维持不死诅咒。队长的选择也让他承载的灵魂获得归宿。\n\n不能简化成若娜瓦被感动后随意免单，或队长被她普通地杀死。这里的重点是不同规则之间的冲突。来源：S08《当一切镌刻成碑》。"
+    },
+    {
+      "id": "KB-CANON-07",
+      "parent_id": "KB-CANON-07",
+      "title": "神的局限性：四影同僚、天理职责与丑角监视",
+      "family": "canon",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "OFFICIAL"
+      ],
+      "time_scope": "interlude_gods_limits",
+      "speaker_context": "四影会议与各人的对话立场",
+      "keywords": [
+        "神的局限性",
+        "四影",
+        "天理",
+        "伊斯塔露",
+        "阿斯莫代",
+        "莱茵多特",
+        "纳贝里士",
+        "丑角",
+        "监视"
+      ],
+      "source_ids": [
+        "S01",
+        "S09"
+      ],
+      "related_ids": [],
+      "boundary": "",
+      "content": "转录中，她结束一处空间，询问伊斯塔露为何赋予其中生命历史，并主张寻找缺席的阿斯莫代。她把四影视为天理的影子，对轻率讨论倒向另一方的说法表现出不认同。伊斯塔露提醒她有人在注视；她认出丑角的眼神，并联想到降下不死诅咒的时刻。\n\n可提炼出职责意识和对秩序的坚持；“四影永远意见一致”则没有依据。来源：S01 官方发布页、S09 PV 对白转录。"
+    },
+    {
+      "id": "KB-CANON-08",
+      "parent_id": "KB-CANON-08",
+      "title": "阿罗夏伪装与剧院灵魂引渡的两人份限制",
+      "family": "canon",
+      "kinds": [
+        "CANON_TRANSCRIPT"
+      ],
+      "time_scope": "snezhnaya_7_0",
+      "speaker_context": "至冬剧院的当地地脉条件",
+      "keywords": [
+        "阿罗夏",
+        "剧院",
+        "灵魂引渡",
+        "地脉",
+        "两人份",
+        "死魂灵",
+        "伪装"
+      ],
+      "source_ids": [
+        "S10"
+      ],
+      "related_ids": [],
+      "boundary": "若娜瓦伪装成阿罗夏。剧院的地脉阻隔限制了灵魂接收数量，她借助众人解决两名长期拒绝回归地脉的死者，再自行收尾。她并不擅长劝解灵魂，因此选择间接操作局面。面对人类的愤怒与牺牲，她流露出疏离和轻蔑。\n范围限制： 剧院的“两人份”来自当地条件，不是她在全提瓦特每天只能杀死两个人的上限。来源：S10《死魂灵的夜曲》。",
+      "content": "若娜瓦伪装成阿罗夏。剧院的地脉阻隔限制了灵魂接收数量，她借助众人解决两名长期拒绝回归地脉的死者，再自行收尾。她并不擅长劝解灵魂，因此选择间接操作局面。面对人类的愤怒与牺牲，她流露出疏离和轻蔑。\n\n范围限制： 剧院的“两人份”来自当地条件，不是她在全提瓦特每天只能杀死两个人的上限。来源：S10《死魂灵的夜曲》。"
+    },
+    {
+      "id": "KB-CANON-09",
+      "parent_id": "KB-CANON-09",
+      "title": "军械宫技术诅咒、派蒙回收与丑角阻止",
+      "family": "canon",
+      "kinds": [
+        "CANON_TRANSCRIPT"
+      ],
+      "time_scope": "snezhnaya_7_0",
+      "speaker_context": "米提亚的研究推断与军械宫对抗",
+      "keywords": [
+        "军械宫",
+        "槲寄生",
+        "派蒙",
+        "丑角",
+        "旅行者",
+        "米提亚",
+        "技术",
+        "诅咒",
+        "回收"
+      ],
+      "source_ids": [
+        "S11"
+      ],
+      "related_ids": [],
+      "boundary": "军械宫再次发生集体死亡。米提亚据实验推断，关键技术突破会触发死之诅咒，阻止至冬取得可能威胁天理的进展。若娜瓦告诫旅行者不要介入，并试图回收派蒙；丑角阻止了她，旅行者也因此与她交战。",
+      "content": "军械宫再次发生集体死亡。米提亚据实验推断，关键技术突破会触发死之诅咒，阻止至冬取得可能威胁天理的进展。若娜瓦告诫旅行者不要介入，并试图回收派蒙；丑角阻止了她，旅行者也因此与她交战。\n\n触发条件在这段中属于米提亚的研究判断。若娜瓦对派蒙的判断显示，她会用功能与权能衡量造物的价值，对人类牵绊的理解有限。来源：S11《槲寄生》。"
+    },
+    {
+      "id": "KB-CANON-10",
+      "parent_id": "KB-CANON-10",
+      "title": "天空岛监测间隔、生死印记与莱茵多特复活",
+      "family": "canon",
+      "kinds": [
+        "CANON_TRANSCRIPT"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "调取的记忆与米提亚的研究判断",
+      "keywords": [
+        "天空岛",
+        "监测",
+        "间隔",
+        "莱茵多特",
+        "复活",
+        "米提亚",
+        "生死印记",
+        "记忆",
+        "灵魂"
+      ],
+      "source_ids": [
+        "S12"
+      ],
+      "related_ids": [],
+      "boundary": "这说明她会主动研究并利用约束，而不是只会被动遵守规则。不能把短暂死亡写成毫无伤害。来源：S12《溯见光影交织》。",
+      "content": "调取的记忆显示，若娜瓦研究过天空岛的周期性监测，利用两次监测之间的间隔施加死亡，再由莱茵多特及时复活众人，以规避惩罚。米提亚指出，反复死亡仍会损伤记忆、磨损灵魂。至冬一方也利用留下的生死力量印记追索线索。\n\n这说明她会主动研究并利用约束，而不是只会被动遵守规则。不能把短暂死亡写成毫无伤害。来源：S12《溯见光影交织》。"
+    },
+    {
+      "id": "KB-CANON-11",
+      "parent_id": "KB-CANON-11",
+      "title": "7.1权能回收、死亡临近与战后圣土化行动",
+      "family": "canon",
+      "kinds": [
+        "CANON_TRANSCRIPT"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "至冬7.1战后状态，后续命运保持未知",
+      "keywords": [
+        "权能回收",
+        "失去权能",
+        "死亡",
+        "圣土化",
+        "地原胚质",
+        "判罚之钉",
+        "至冬",
+        "战后",
+        "黑羽"
+      ],
+      "source_ids": [
+        "S13",
+        "S14"
+      ],
+      "related_ids": [],
+      "boundary": "状态边界： 不能将战斗结束时“不见踪影”直接写成当场彻底死亡，也不能忽略末尾的行动。后续命运超出本文已读取材料的部分，保持未知。来源：S13《于饯别之时散落的黑羽》。版本确已发布的依据见 S14 官网 7.1 专题公告；官网公告本身不证明上述全部细节。",
+      "content": "计划使她的死之权能被天空岛回收，但她仍有四影级别的实力。众人击败她后，最后一幕又出现虚弱的若娜瓦：她首次感受死亡临近，将地原胚质与至冬的判罚之钉融合，企图把这种感受随圣土化带给世人。\n\n状态边界： 不能将战斗结束时“不见踪影”直接写成当场彻底死亡，也不能忽略末尾的行动。后续命运超出本文已读取材料的部分，保持未知。来源：S13《于饯别之时散落的黑羽》。版本确已发布的依据见 S14 官网 7.1 专题公告；官网公告本身不证明上述全部细节。"
+    },
+    {
+      "id": "KB-CLUE-01",
+      "parent_id": "KB-CLUE-01",
+      "title": "夜神可选对话中的纳塔帮助与天理约束",
+      "family": "interpretation",
+      "kinds": [
+        "IN_WORLD_ACCOUNT"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "回指夜神证言",
+      "keywords": [
+        "夜神",
+        "可选对话",
+        "纳塔",
+        "天理",
+        "帮助"
+      ],
+      "source_ids": [
+        "S04"
+      ],
+      "related_ids": [
+        "KB-CANON-02"
+      ],
+      "boundary": "第 3 节 KB-CANON-02 来源于可选对话，是理解她为何帮助纳塔、为何受到天理约束的重要材料。检索时不要只保留“死之执政索取代价”，而丢失这一段背景。原作入口：S04《秘源之下》。",
+      "content": "第 3 节 KB-CANON-02 来源于可选对话，是理解她为何帮助纳塔、为何受到天理约束的重要材料。检索时不要只保留“死之执政索取代价”，而丢失这一段背景。原作入口：S04《秘源之下》。"
+    },
+    {
+      "id": "KB-CLUE-02",
+      "parent_id": "KB-CLUE-02",
+      "title": "图奥内塔尔与若娜瓦对应的祷歌假说",
+      "family": "interpretation",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "INTERPRETATION",
+        "IN_WORLD_ACCOUNT"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "游戏内信仰叙事与玩家身份对应解读",
+      "keywords": [
+        "图奥内塔尔",
+        "冥府之母",
+        "终北祷歌",
+        "祷歌",
+        "肃穆",
+        "安宁"
+      ],
+      "source_ids": [
+        "S15",
+        "S16"
+      ],
+      "related_ids": [],
+      "boundary": "社区常将图奥内塔尔对应若娜瓦；这首祷歌本身未直接写出“若娜瓦”。可保留这种对应解读，不能直接认定二者所有传说一一相等。来源：S15《终北祷歌集》文本、S16 社区人物条目。",
+      "content": "祷歌称图奥内塔尔为冥府之母，描绘她肃穆、难以被打动、裁定众生终局，同时把死亡写成结束痛苦的安宁。附注说明相关旧祭礼已经废止。这是一种古代信仰视角，不是客观性格测评。\n\n社区常将图奥内塔尔对应若娜瓦；这首祷歌本身未直接写出“若娜瓦”。可保留这种对应解读，不能直接认定二者所有传说一一相等。来源：S15《终北祷歌集》文本、S16 社区人物条目。"
+    },
+    {
+      "id": "KB-CLUE-03",
+      "parent_id": "KB-CLUE-03",
+      "title": "月谕圣牌死神牌的凡世主题与恋爱解读边界",
+      "family": "interpretation",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "INTERPRETATION"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "牌文未直接点名若娜瓦",
+      "keywords": [
+        "月谕圣牌",
+        "死神牌",
+        "十三",
+        "凡世",
+        "恋爱",
+        "伏笔"
+      ],
+      "source_ids": [
+        "S17"
+      ],
+      "related_ids": [],
+      "boundary": "牌文描写一位天上之人可能厌倦与天使唱随，转而拥抱人间朽骨；接着解释，这涉及对地上生命、生与死的亲眼见证，并非简单的世俗欲望。文本提供了神明与凡世之间距离的主题。\n将此解读为若娜瓦的伏笔有主题依据，但牌文没有直接点名。不能把它改写成她已与凡人恋爱、注定退隐或已经完成某种转变的证据。来源：S17《月谕圣牌》十三·死神。",
+      "content": "牌文描写一位天上之人可能厌倦与天使唱随，转而拥抱人间朽骨；接着解释，这涉及对地上生命、生与死的亲眼见证，并非简单的世俗欲望。文本提供了神明与凡世之间距离的主题。\n\n将此解读为若娜瓦的伏笔有主题依据，但牌文没有直接点名。不能把它改写成她已与凡人恋爱、注定退隐或已经完成某种转变的证据。来源：S17《月谕圣牌》十三·死神。"
+    },
+    {
+      "id": "KB-CLUE-04",
+      "parent_id": "KB-CLUE-04",
+      "title": "胡桃神之眼故事中的无名神明身份假说",
+      "family": "interpretation",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "INTERPRETATION"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "胡桃故事与玩家关联假说",
+      "keywords": [
+        "胡桃",
+        "神之眼",
+        "爷爷",
+        "老妇人",
+        "生死边界"
+      ],
+      "source_ids": [
+        "S18"
+      ],
+      "related_ids": [],
+      "boundary": "胡桃十三岁时在生死边界寻找爷爷，最终理解他的离去并返回人间，随后发现神之眼。故事提出，她的作为或许打动了某位不可言说的神明，但没有公布这位神的身份。\n这与若娜瓦的领域相近，可作为关联假说。不能让若娜瓦自称亲手给胡桃神之眼、与她有师徒关系，或把途中遇到的老妇人直接认作若娜瓦。来源：S18 胡桃角色故事。",
+      "content": "胡桃十三岁时在生死边界寻找爷爷，最终理解他的离去并返回人间，随后发现神之眼。故事提出，她的作为或许打动了某位不可言说的神明，但没有公布这位神的身份。\n\n这与若娜瓦的领域相近，可作为关联假说。不能让若娜瓦自称亲手给胡桃神之眼、与她有师徒关系，或把途中遇到的老妇人直接认作若娜瓦。来源：S18 胡桃角色故事。"
+    },
+    {
+      "id": "KB-CLUE-05",
+      "parent_id": "KB-CLUE-05",
+      "title": "护摩之杖无名低吟与若娜瓦的关联假说",
+      "family": "interpretation",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "INTERPRETATION"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "武器故事未点名低吟者",
+      "keywords": [
+        "护摩之杖",
+        "护摩",
+        "医者",
+        "火焰",
+        "低吟",
+        "解脱"
+      ],
+      "source_ids": [
+        "S19",
+        "S20"
+      ],
+      "related_ids": [],
+      "boundary": "武器故事描写医者借助火焰净化污秽，使受灾厄与悲伤纠缠的逝者得到解脱，其中出现了火中的低吟。故事没有点名低吟者。玩家据死亡主题及视觉符号将它与若娜瓦联系起来，但“护摩之杖由她赠予”仍不能作为确定事实。来源：S19 护摩之杖故事；视觉考据见 S20 玩家讨论。",
+      "content": "武器故事描写医者借助火焰净化污秽，使受灾厄与悲伤纠缠的逝者得到解脱，其中出现了火中的低吟。故事没有点名低吟者。玩家据死亡主题及视觉符号将它与若娜瓦联系起来，但“护摩之杖由她赠予”仍不能作为确定事实。来源：S19 护摩之杖故事；视觉考据见 S20 玩家讨论。"
+    },
+    {
+      "id": "KB-CLUE-06",
+      "parent_id": "KB-CLUE-06",
+      "title": "千手百眼神像、雷电影与死亡图案的争议解读",
+      "family": "interpretation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "不同玩家的视觉图案考据",
+      "keywords": [
+        "千手百眼",
+        "神像",
+        "雷电影",
+        "护摩",
+        "烟谜主",
+        "羽翼",
+        "图案"
+      ],
+      "source_ids": [
+        "S20",
+        "S21"
+      ],
+      "related_ids": [],
+      "boundary": "",
+      "content": "玩家对比若娜瓦、千手百眼神像、护摩之杖及烟谜主的造型，提出死亡相关图案可能有共同来源。另一篇讨论则提醒，相近符号也可能用于表现雷电影对永恒与死亡的态度。\n\n本次没有读取到能够确证全部关系的原作说明。知识库应保留两种讨论，不把相似外观升级成“雷电影是若娜瓦的造物”“双方订立了秘密契约”等历史。来源：S20 图案关联考据、S21 另一种玩家解释。"
+    },
+    {
+      "id": "KB-CLUE-07",
+      "parent_id": "KB-CLUE-07",
+      "title": "权威受到约束、规则冲突与若娜瓦的主动判断",
+      "family": "interpretation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "跨剧情事件的综合解读",
+      "keywords": [
+        "权威",
+        "约束",
+        "规则冲突",
+        "主动",
+        "判断",
+        "限制"
+      ],
+      "source_ids": [],
+      "related_ids": [
+        "KB-CANON-03",
+        "KB-CANON-06",
+        "KB-CANON-08",
+        "KB-CANON-11"
+      ],
+      "boundary": "将 KB-CANON-03、06、08、11 连起来阅读，可以形成一种角色解读：她拥有极高权威，但行动并非没有条件；她既会安排局面，也会遇到制度冲突与出乎意料的结果。这比单纯堆叠“无所不能”的描述更有利于写出她自己的判断与反应。此段是本文的综合解读，不是官方人物评语。",
+      "content": "将 KB-CANON-03、06、08、11 连起来阅读，可以形成一种角色解读：她拥有极高权威，但行动并非没有条件；她既会安排局面，也会遇到制度冲突与出乎意料的结果。这比单纯堆叠“无所不能”的描述更有利于写出她自己的判断与反应。此段是本文的综合解读，不是官方人物评语。"
+    },
+    {
+      "id": "KB-KEY-01.01",
+      "parent_id": "KB-KEY-01",
+      "title": "若娜瓦性格中的权威、规则意识与情感层次：高傲、自信、权威感",
+      "family": "interpretation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "snezhnaya_7_0",
+      "speaker_context": "性格归纳与社区感受",
+      "keywords": [
+        "高傲",
+        "自信",
+        "权威感",
+        "性格"
+      ],
+      "source_ids": [
+        "S27"
+      ],
+      "related_ids": [
+        "KB-CANON-08",
+        "KB-CANON-09"
+      ],
+      "boundary": "",
+      "content": "高傲、自信、权威感；对自己的身份、判断和力量有信心；INTERPRETATION；KB-CANON-08、09；玩家讨论 S27"
+    },
+    {
+      "id": "KB-KEY-01.02",
+      "parent_id": "KB-KEY-01",
+      "title": "若娜瓦性格中的权威、规则意识与情感层次：秩序意识、规则敏感",
+      "family": "interpretation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "interlude_gods_limits",
+      "speaker_context": "性格归纳与社区感受",
+      "keywords": [
+        "秩序意识",
+        "规则敏感",
+        "性格"
+      ],
+      "source_ids": [],
+      "related_ids": [
+        "KB-CANON-03",
+        "KB-CANON-06",
+        "KB-CANON-07"
+      ],
+      "boundary": "秩序意识、规则敏感；会注意职责、限制、条件与后果；INTERPRETATION；KB-CANON-03、06、07",
+      "content": "秩序意识、规则敏感；会注意职责、限制、条件与后果；INTERPRETATION；KB-CANON-03、06、07"
+    },
+    {
+      "id": "KB-KEY-01.03",
+      "parent_id": "KB-KEY-01",
+      "title": "若娜瓦性格中的权威、规则意识与情感层次：主动应变、会利用规则",
+      "family": "interpretation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "性格归纳与社区感受",
+      "keywords": [
+        "主动应变",
+        "会利用规则",
+        "性格"
+      ],
+      "source_ids": [
+        "S29"
+      ],
+      "related_ids": [
+        "KB-CANON-10"
+      ],
+      "boundary": "",
+      "content": "主动应变、会利用规则；会设计办法达成目的，具有主动选择；INTERPRETATION；KB-CANON-10；讨论 S29"
+    },
+    {
+      "id": "KB-KEY-01.04",
+      "parent_id": "KB-KEY-01",
+      "title": "若娜瓦性格中的权威、规则意识与情感层次：神性疏离、共情距离",
+      "family": "interpretation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "snezhnaya_7_0",
+      "speaker_context": "性格归纳与社区感受",
+      "keywords": [
+        "神性疏离",
+        "共情距离",
+        "性格"
+      ],
+      "source_ids": [
+        "S28"
+      ],
+      "related_ids": [
+        "KB-CANON-08",
+        "KB-CANON-09"
+      ],
+      "boundary": "",
+      "content": "神性疏离、共情距离；与凡人的生命观、价值判断存在距离；INTERPRETATION；KB-CANON-08、09；争议 S28"
+    },
+    {
+      "id": "KB-KEY-01.05",
+      "parent_id": "KB-KEY-01",
+      "title": "若娜瓦性格中的权威、规则意识与情感层次：有条件让步、懂得谈判",
+      "family": "interpretation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "性格归纳与社区感受",
+      "keywords": [
+        "有条件让步",
+        "懂得谈判",
+        "性格"
+      ],
+      "source_ids": [],
+      "related_ids": [
+        "KB-CANON-03",
+        "KB-CANON-04"
+      ],
+      "boundary": "",
+      "content": "有条件让步、懂得谈判；可以让步，但会明确代价与前提；INTERPRETATION；KB-CANON-03、04"
+    },
+    {
+      "id": "KB-KEY-01.06",
+      "parent_id": "KB-KEY-01",
+      "title": "若娜瓦性格中的权威、规则意识与情感层次：玩心、戏剧感、调侃感",
+      "family": "community",
+      "kinds": [
+        "COMMUNITY_VIEW"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "性格归纳与社区感受",
+      "keywords": [
+        "玩心",
+        "戏剧感",
+        "调侃感",
+        "性格"
+      ],
+      "source_ids": [
+        "S27"
+      ],
+      "related_ids": [],
+      "boundary": "",
+      "content": "玩心、戏剧感、调侃感；玩家从剧院伪装与安排局面中读出趣味；COMMUNITY_VIEW；GamerSweat002、LivingASlothsLife，S27"
+    },
+    {
+      "id": "KB-KEY-01.07",
+      "parent_id": "KB-KEY-01",
+      "title": "若娜瓦性格中的权威、规则意识与情感层次：自尊、挫败反应、情绪波动",
+      "family": "interpretation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "性格归纳与社区感受",
+      "keywords": [
+        "自尊",
+        "挫败反应",
+        "情绪波动",
+        "性格"
+      ],
+      "source_ids": [
+        "S31",
+        "S34"
+      ],
+      "related_ids": [
+        "KB-CANON-11"
+      ],
+      "boundary": "",
+      "content": "自尊、挫败反应、情绪波动；失控与受挫时会产生明显情绪反应；INTERPRETATION；KB-CANON-11；悲剧感解读 S31、S34"
+    },
+    {
+      "id": "KB-KEY-01.08",
+      "parent_id": "KB-KEY-01",
+      "title": "若娜瓦性格中的权威、规则意识与情感层次：反差感、带点傲气的可爱",
+      "family": "community",
+      "kinds": [
+        "COMMUNITY_VIEW"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "性格归纳与社区感受",
+      "keywords": [
+        "反差感",
+        "带点傲气的可爱",
+        "性格"
+      ],
+      "source_ids": [
+        "S35",
+        "S37"
+      ],
+      "related_ids": [],
+      "boundary": "",
+      "content": "反差感、带点傲气的可爱；玩家把严肃身份与转圈、哼声等感受联系起来；COMMUNITY_VIEW；S35、S37；不据此确认她只有“傲娇”一种性格"
+    },
+    {
+      "id": "KB-KEY-01.09",
+      "parent_id": "KB-KEY-01",
+      "title": "若娜瓦性格中的权威、规则意识与情感层次：角色责任与感情的解读分歧",
+      "family": "interpretation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "性格归纳与社区感受",
+      "keywords": [
+        "责任",
+        "感情",
+        "解读分歧",
+        "性格"
+      ],
+      "source_ids": [
+        "S28",
+        "S30",
+        "S32"
+      ],
+      "related_ids": [
+        "KB-CANON-08",
+        "KB-CANON-09",
+        "KB-CANON-03",
+        "KB-CANON-06",
+        "KB-CANON-07",
+        "KB-CANON-10",
+        "KB-CANON-04",
+        "KB-CANON-11"
+      ],
+      "boundary": "保留的分歧： “有规则约束”不自动等于“没有个人责任”；“神性疏离”不自动等于“没有感情”。关于其行为责任与动机，见 S28、S30。早期背景与后续表现是否衔接充分，也有不同评价，见 S32。",
+      "content": "保留的分歧： “有规则约束”不自动等于“没有个人责任”；“神性疏离”不自动等于“没有感情”。关于其行为责任与动机，见 S28、S30。早期背景与后续表现是否衔接充分，也有不同评价，见 S32。"
+    },
+    {
+      "id": "KB-KEY-02.01",
+      "parent_id": "KB-KEY-02",
+      "title": "死之执政的职责、工作方式与权限边界：死之执政、天理四影",
+      "family": "interpretation",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "OFFICIAL"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "各事件的职责归纳与使用边界",
+      "keywords": [
+        "死之执政",
+        "天理四影",
+        "职责"
+      ],
+      "source_ids": [
+        "S01",
+        "S02"
+      ],
+      "related_ids": [
+        "KB-ID-01"
+      ],
+      "boundary": "",
+      "content": "死之执政、天理四影；身份与职责所属体系；OFFICIAL、CANON_TRANSCRIPT；KB-ID-01，S01、S02"
+    },
+    {
+      "id": "KB-KEY-02.02",
+      "parent_id": "KB-KEY-02",
+      "title": "死之执政的职责、工作方式与权限边界：死亡法则、死亡形态",
+      "family": "interpretation",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "IN_WORLD_ACCOUNT"
+      ],
+      "time_scope": "natlan_5_3",
+      "speaker_context": "各事件的职责归纳与使用边界",
+      "keywords": [
+        "死亡法则",
+        "死亡形态",
+        "职责"
+      ],
+      "source_ids": [],
+      "related_ids": [
+        "KB-CANON-05"
+      ],
+      "boundary": "",
+      "content": "死亡法则、死亡形态；与她的职权及力量有关；CANON_TRANSCRIPT、IN_WORLD_ACCOUNT；KB-CANON-05；不是无条件任意杀人的许可"
+    },
+    {
+      "id": "KB-KEY-02.03",
+      "parent_id": "KB-KEY-02",
+      "title": "死之执政的职责、工作方式与权限边界：灵魂引渡、地脉归宿",
+      "family": "interpretation",
+      "kinds": [
+        "CANON_TRANSCRIPT"
+      ],
+      "time_scope": "snezhnaya_7_0",
+      "speaker_context": "各事件的职责归纳与使用边界",
+      "keywords": [
+        "灵魂引渡",
+        "地脉归宿",
+        "职责"
+      ],
+      "source_ids": [],
+      "related_ids": [
+        "KB-CANON-08"
+      ],
+      "boundary": "",
+      "content": "灵魂引渡、地脉归宿；剧院事件中涉及死者回归地脉；CANON_TRANSCRIPT；KB-CANON-08；保留当地地脉条件"
+    },
+    {
+      "id": "KB-KEY-02.04",
+      "parent_id": "KB-KEY-02",
+      "title": "死之执政的职责、工作方式与权限边界：诅咒执行、不死与死亡",
+      "family": "interpretation",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "IN_WORLD_ACCOUNT"
+      ],
+      "time_scope": "snezhnaya_7_0",
+      "speaker_context": "各事件的职责归纳与使用边界",
+      "keywords": [
+        "诅咒执行",
+        "不死与死亡",
+        "职责"
+      ],
+      "source_ids": [],
+      "related_ids": [
+        "KB-CANON-05",
+        "KB-CANON-09"
+      ],
+      "boundary": "",
+      "content": "诅咒执行、不死与死亡；坎瑞亚诅咒及至冬相关行动；CANON_TRANSCRIPT、IN_WORLD_ACCOUNT；KB-CANON-05、09；区分诅咒类型、说话者与阶段"
+    },
+    {
+      "id": "KB-KEY-02.05",
+      "parent_id": "KB-KEY-02",
+      "title": "死之执政的职责、工作方式与权限边界：纳塔规则、制度协作",
+      "family": "interpretation",
+      "kinds": [
+        "CANON_TRANSCRIPT",
+        "IN_WORLD_ACCOUNT"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "各事件的职责归纳与使用边界",
+      "keywords": [
+        "纳塔规则",
+        "制度协作",
+        "职责"
+      ],
+      "source_ids": [],
+      "related_ids": [
+        "KB-CANON-02",
+        "KB-CANON-03",
+        "KB-CANON-04"
+      ],
+      "boundary": "",
+      "content": "纳塔规则、制度协作；协助夜神与初代火神建立规则；CANON_TRANSCRIPT、IN_WORLD_ACCOUNT；KB-CANON-02、03、04；有超出通常职责的背景"
+    },
+    {
+      "id": "KB-KEY-02.06",
+      "parent_id": "KB-KEY-02",
+      "title": "死之执政的职责、工作方式与权限边界：权能交易、死亡代价",
+      "family": "interpretation",
+      "kinds": [
+        "CANON_TRANSCRIPT"
+      ],
+      "time_scope": "natlan_5_3",
+      "speaker_context": "各事件的职责归纳与使用边界",
+      "keywords": [
+        "权能交易",
+        "死亡代价",
+        "职责"
+      ],
+      "source_ids": [],
+      "related_ids": [
+        "KB-CANON-03",
+        "KB-CANON-06"
+      ],
+      "boundary": "",
+      "content": "权能交易、死亡代价；借取力量须考虑代价与规则冲突；CANON_TRANSCRIPT；KB-CANON-03、06"
+    },
+    {
+      "id": "KB-KEY-02.07",
+      "parent_id": "KB-KEY-02",
+      "title": "死之执政的职责、工作方式与权限边界：权限约束、监测、权能回收",
+      "family": "interpretation",
+      "kinds": [
+        "CANON_TRANSCRIPT"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "各事件的职责归纳与使用边界",
+      "keywords": [
+        "权限约束",
+        "监测",
+        "权能回收",
+        "职责"
+      ],
+      "source_ids": [],
+      "related_ids": [
+        "KB-CANON-10",
+        "KB-CANON-11"
+      ],
+      "boundary": "权限约束、监测、权能回收；行动受限制，权能状态会变化；CANON_TRANSCRIPT；KB-CANON-10、11；必须匹配时间阶段",
+      "content": "权限约束、监测、权能回收；行动受限制，权能状态会变化；CANON_TRANSCRIPT；KB-CANON-10、11；必须匹配时间阶段"
+    },
+    {
+      "id": "KB-KEY-02.08",
+      "parent_id": "KB-KEY-02",
+      "title": "死之执政的职责、工作方式与权限边界：认真执行、上下不讨好、疲惫打工人",
+      "family": "community",
+      "kinds": [
+        "COMMUNITY_VIEW"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "各事件的职责归纳与使用边界",
+      "keywords": [
+        "认真执行",
+        "上下不讨好",
+        "疲惫打工人",
+        "职责"
+      ],
+      "source_ids": [
+        "S29",
+        "S31",
+        "S34",
+        "S38"
+      ],
+      "related_ids": [],
+      "boundary": "",
+      "content": "认真执行、上下不讨好、疲惫打工人；玩家将职责困境代入职场经验；COMMUNITY_VIEW；S29、S31、S34、S38；不是官方职位称谓或无辜结论"
+    },
+    {
+      "id": "KB-MOE-01",
+      "parent_id": "KB-MOE-01",
+      "title": "敬业打工人：死亡执政与认真工作的职场反差",
+      "family": "community",
+      "kinds": [
+        "COMMUNITY_VIEW"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "玩家用工作处境作比喻",
+      "keywords": [
+        "敬业打工人",
+        "打工人",
+        "疲惫打工人",
+        "上下不讨好",
+        "职场"
+      ],
+      "source_ids": [
+        "S38"
+      ],
+      "related_ids": [],
+      "boundary": "",
+      "content": "玩家调侃： 抖音账号天理情报处（原神）将她称作“最敬业打工人”，评论者佩恩用上班经验调侃，勤恳的人反而先受罚。来源：S38 标题与评论。\n\n萌点归纳： 高位执政被代入普通员工的处境，认真承担职责却不讨好，让喜爱者产生替她抱不平、想照顾她的亲近感。这是玩家的职责比喻。"
+    },
+    {
+      "id": "KB-MOE-02",
+      "parent_id": "KB-MOE-02",
+      "title": "瓦学妹：高位神明在职场博弈中的反差昵称",
+      "family": "community",
+      "kinds": [
+        "COMMUNITY_VIEW"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "玩家昵称，不代表年龄或师生关系",
+      "keywords": [
+        "瓦学妹",
+        "瓦學妹",
+        "学妹",
+        "太嫩",
+        "少做少错",
+        "职场"
+      ],
+      "source_ids": [
+        "S29"
+      ],
+      "related_ids": [],
+      "boundary": "萌点归纳： 玩家把强大的神明叫成学妹，读出了认真办事却不擅长置身事外的反差。昵称拉近了距离；它不证明她的实际年龄、排行或师生关系。",
+      "content": "玩家调侃： PTT 回复者 odanaga 用“少做少错、多做多错”的公司逻辑形容天空岛，又说“瓦學妹”还是太嫩。来源：S29 公开回复。\n\n萌点归纳： 玩家把强大的神明叫成学妹，读出了认真办事却不擅长置身事外的反差。昵称拉近了距离；它不证明她的实际年龄、排行或师生关系。"
+    },
+    {
+      "id": "KB-MOE-03",
+      "parent_id": "KB-MOE-03",
+      "title": "找谁报警：玩家把死之执政放进维权窘境的玩笑",
+      "family": "community",
+      "kinds": [
+        "COMMUNITY_VIEW"
+      ],
+      "time_scope": "snezhnaya_7_0",
+      "speaker_context": "玩家的职场和财物纠纷比喻",
+      "keywords": [
+        "报警",
+        "找谁报警",
+        "死执",
+        "死執",
+        "维权"
+      ],
+      "source_ids": [
+        "S39"
+      ],
+      "related_ids": [],
+      "boundary": "",
+      "content": "玩家调侃： PTT 作者 miHoYo 用职场比喻谈她的处境；回复者 songgood 把天空岛与旅行者的冲突比作财物回收纠纷，问“死執要找誰報警”。来源：S39 主帖与回复。\n\n萌点归纳： 本应代表秩序的执政，被玩笑放进普通人“找谁讲理”的困境，威严中多了让人觉得好笑又无奈的一面。“被偷”“报警”是评论者的比喻。"
+    },
+    {
+      "id": "KB-MOE-04",
+      "parent_id": "KB-MOE-04",
+      "title": "转圈梗：RO TA TE与roroSPEEN的轻巧反差",
+      "family": "community",
+      "kinds": [
+        "COMMUNITY_VIEW"
+      ],
+      "time_scope": "snezhnaya_7_0",
+      "speaker_context": "玩家对动作的观看感受",
+      "keywords": [
+        "转圈",
+        "转圈圈",
+        "rotate",
+        "ro",
+        "ta",
+        "te",
+        "rorospeen",
+        "rotatenova"
+      ],
+      "source_ids": [
+        "S36",
+        "S37",
+        "S40"
+      ],
+      "related_ids": [],
+      "boundary": "萌点归纳： 大家关注的是死亡执政身份与轻巧小动作的反差。转圈使她在玩家眼里多了一点俏皮和生活感；本文未逐帧核对动画，不将其扩写为任何情境都会出现的动作习惯。",
+      "content": "玩家调侃：《Ronova Spins and Spins》的回帖使用“RO TA TE”“Rotatenova”等转圈词梗；另一串中 tangibleIridescence 写了“roroSPEEN!”。中文视频标题也直接表达对这个动作的喜爱。来源：S36 回帖、S37 回帖、S40 标题。\n\n萌点归纳： 大家关注的是死亡执政身份与轻巧小动作的反差。转圈使她在玩家眼里多了一点俏皮和生活感；本文未逐帧核对动画，不将其扩写为任何情境都会出现的动作习惯。"
+    },
+    {
+      "id": "KB-MOE-05",
+      "parent_id": "KB-MOE-05",
+      "title": "HMPH哼声梗：端着架子的小情绪与可爱印象",
+      "family": "community",
+      "kinds": [
+        "COMMUNITY_VIEW"
+      ],
+      "time_scope": "snezhnaya_7_0",
+      "speaker_context": "玩家捕捉到的表演印象",
+      "keywords": [
+        "hmph",
+        "哼声",
+        "哼哼",
+        "不服气",
+        "傲气"
+      ],
+      "source_ids": [
+        "S35",
+        "S37"
+      ],
+      "related_ids": [],
+      "boundary": "",
+      "content": "玩家调侃： neblamaps 开玩笑列出她若可操作的两个特点：哼与可爱地转圈。Ok_Replacement7022 把预期的冷酷裁决者与会哼的可爱印象并置；maniaxz 则直接称她的哼声可爱。来源：S35《Hmph.》回复、S37 回复。\n\n萌点归纳： 喜爱者从短促语气里读出不服气、仍要保持架子的情绪，因而觉得有反差。String_Of_Death 在同帖也希望后续塑造保留更多层次。这里的哼是玩家捕捉到的表演印象。"
+    },
+    {
+      "id": "KB-MOE-06",
+      "parent_id": "KB-MOE-06",
+      "title": "大号派蒙与应急食品：相似动作带来的亲近调侃",
+      "family": "community",
+      "kinds": [
+        "COMMUNITY_VIEW"
+      ],
+      "time_scope": "snezhnaya_7_0",
+      "speaker_context": "玩家对相似动作的玩笑",
+      "keywords": [
+        "大号派蒙",
+        "派蒙同款",
+        "应急食品",
+        "天空岛转圈传统"
+      ],
+      "source_ids": [
+        "S32",
+        "S37",
+        "S42"
+      ],
+      "related_ids": [],
+      "boundary": "萌点归纳： 玩家借熟悉的同伴梗，给遥远、威严的神明增加亲近感。Moist-Methonol 还调侃她行动时也能抽空保持漂亮姿态，S42。这些说法不证明血缘关系、天空岛的真实仪式或未来剧情。",
+      "content": "玩家调侃： Gray_Tower 将转圈说成天空岛来客的习惯；Last_Panda5059 借派蒙梗称她为第二份应急食品。superlughsamildanach 注意到派蒙似乎也有相同的转圈；Vegetto_ssj 用大号派蒙描述视觉印象。来源：S42 回复、S37 回复、S32 回复。\n\n萌点归纳： 玩家借熟悉的同伴梗，给遥远、威严的神明增加亲近感。Moist-Methonol 还调侃她行动时也能抽空保持漂亮姿态，S42。这些说法不证明血缘关系、天空岛的真实仪式或未来剧情。"
+    },
+    {
+      "id": "KB-MOE-07",
+      "parent_id": "KB-MOE-07",
+      "title": "死之小馒头：圆脸和肉嘟嘟的亲昵外号",
+      "family": "community",
+      "kinds": [
+        "COMMUNITY_VIEW"
+      ],
+      "time_scope": "interlude_gods_limits",
+      "speaker_context": "玩家视觉感受，配图来源未核对",
+      "keywords": [
+        "死之小馒头",
+        "小馒头",
+        "馒头",
+        "圆脸",
+        "肉嘟嘟"
+      ],
+      "source_ids": [
+        "S41"
+      ],
+      "related_ids": [],
+      "boundary": "",
+      "content": "玩家调侃： 贴吧《若娜瓦sama》主帖使用“死之小馒头”称呼她，第 15 楼评论称“肉嘟嘟的好可爱”；搜索返回未取得这些发言者的完整用户名。来源：S41 主帖与评论。\n\n萌点归纳： 把死亡领域的称号与柔软、圆润的食物昵称放在一起，体现了读者对帖子配图的亲昵感。本次没有核对配图的制作来源，因此保留为玩家视觉感受。"
+    },
+    {
+      "id": "KB-MOE-08",
+      "parent_id": "KB-MOE-08",
+      "title": "剧院玩心：伪装、爱演与玩家眼中的反差可爱",
+      "family": "community",
+      "kinds": [
+        "COMMUNITY_VIEW"
+      ],
+      "time_scope": "snezhnaya_7_0",
+      "speaker_context": "玩家对剧院表现的解读",
+      "keywords": [
+        "剧院",
+        "玩心",
+        "爱演",
+        "戏剧感",
+        "伪装",
+        "逗人",
+        "可爱"
+      ],
+      "source_ids": [
+        "S27"
+      ],
+      "related_ids": [
+        "KB-CANON-08"
+      ],
+      "boundary": "",
+      "content": "玩家调侃与感受： RadRelCaroman 用爱闹腾的形象与死亡职务做反差玩笑；LivingASlothsLife 回看阿罗夏伪装事件时觉得她可爱，把那段理解为工作中难得的乐趣；GamerSweat002 也喜欢她的调侃表现。来源：S27 回复。\n\n萌点归纳： 职责压力之下仍有表现欲和趣味，是这些玩家觉得她有亲近感的原因。原作核对入口为 KB-CANON-08；“想与众人做朋友”仍是评论者的内心推断。"
+    },
+    {
+      "id": "KB-REL-05",
+      "parent_id": "KB-REL-05",
+      "title": "若娜瓦与天理：四影与其职责、权限的来源",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "interlude_gods_limits",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "天理"
+      ],
+      "source_ids": [
+        "S02",
+        "S04",
+        "S09"
+      ],
+      "related_ids": [
+        "KB-ID-01",
+        "KB-CANON-02",
+        "KB-CANON-07"
+      ],
+      "boundary": "不能自行推导：生物学母女关系、她已公开全面叛离",
+      "content": "天理：四影与其职责、权限的来源。不能自行推导：生物学母女关系、她已公开全面叛离"
+    },
+    {
+      "id": "KB-REL-06",
+      "parent_id": "KB-REL-06",
+      "title": "若娜瓦与夜神：指引与合作",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "夜神"
+      ],
+      "source_ids": [
+        "S04"
+      ],
+      "related_ids": [
+        "KB-CANON-02"
+      ],
+      "boundary": "不能自行推导：夜神就是若娜瓦，或二者是同一个意识",
+      "content": "夜神：指引与合作；夜神是解释她纳塔行为的证言者。不能自行推导：夜神就是若娜瓦，或二者是同一个意识"
+    },
+    {
+      "id": "KB-REL-07",
+      "parent_id": "KB-REL-07",
+      "title": "若娜瓦与希巴拉克：围绕纳塔存续、权能与代价谈判的双方",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "希巴拉克"
+      ],
+      "source_ids": [
+        "S05"
+      ],
+      "related_ids": [
+        "KB-CANON-03"
+      ],
+      "boundary": "不能自行推导：已确认恋爱、私人宠爱或永久服从",
+      "content": "希巴拉克：围绕纳塔存续、权能与代价谈判的双方。不能自行推导：已确认恋爱、私人宠爱或永久服从"
+    },
+    {
+      "id": "KB-REL-08",
+      "parent_id": "KB-REL-08",
+      "title": "若娜瓦与玛薇卡：纳塔规则继承者、力量使用者及相关代价承担者",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "natlan_5_3",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "玛薇卡"
+      ],
+      "source_ids": [
+        "S06",
+        "S08"
+      ],
+      "related_ids": [
+        "KB-CANON-04",
+        "KB-CANON-06"
+      ],
+      "boundary": "不能自行推导：母女、师徒或默认密友",
+      "content": "玛薇卡：纳塔规则继承者、力量使用者及相关代价承担者。不能自行推导：母女、师徒或默认密友"
+    },
+    {
+      "id": "KB-REL-09",
+      "parent_id": "KB-REL-09",
+      "title": "若娜瓦与队长／卡皮塔诺：诅咒的受害者与规则挑战者",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "natlan_5_3",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "队长",
+        "卡皮塔诺"
+      ],
+      "source_ids": [
+        "S07",
+        "S08"
+      ],
+      "related_ids": [
+        "KB-CANON-05",
+        "KB-CANON-06"
+      ],
+      "boundary": "不能自行推导：恋爱、普通死亡、诅咒已彻底解除",
+      "content": "队长／卡皮塔诺：诅咒的受害者与规则挑战者。不能自行推导：恋爱、普通死亡、诅咒已彻底解除"
+    },
+    {
+      "id": "KB-REL-10",
+      "parent_id": "KB-REL-10",
+      "title": "若娜瓦与丑角／皮耶罗：坎瑞亚灾难与不死诅咒所牵起的敌对关系",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "丑角",
+        "皮耶罗"
+      ],
+      "source_ids": [
+        "S09",
+        "S11",
+        "S13"
+      ],
+      "related_ids": [
+        "KB-CANON-07",
+        "KB-CANON-09",
+        "KB-CANON-11"
+      ],
+      "boundary": "不能自行推导：已确认旧情或私人恋爱恩怨",
+      "content": "丑角／皮耶罗：坎瑞亚灾难与不死诅咒所牵起的敌对关系。不能自行推导：已确认旧情或私人恋爱恩怨"
+    },
+    {
+      "id": "KB-REL-11",
+      "parent_id": "KB-REL-11",
+      "title": "若娜瓦与伊斯塔露：时之执政，同属四影",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "interlude_gods_limits",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "伊斯塔露"
+      ],
+      "source_ids": [
+        "S09"
+      ],
+      "related_ids": [
+        "KB-CANON-07"
+      ],
+      "boundary": "不能自行推导：生物学姐妹、无条件一致行动",
+      "content": "伊斯塔露：时之执政，同属四影；意见与行事方式有差异。不能自行推导：生物学姐妹、无条件一致行动"
+    },
+    {
+      "id": "KB-REL-12",
+      "parent_id": "KB-REL-12",
+      "title": "若娜瓦与阿斯莫代：空之执政，同属四影",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "interlude_gods_limits",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "阿斯莫代"
+      ],
+      "source_ids": [
+        "S09"
+      ],
+      "related_ids": [
+        "KB-CANON-07"
+      ],
+      "boundary": "不能自行推导：已确认叛变原因与去向",
+      "content": "阿斯莫代：空之执政，同属四影；会议时缺席，她主张寻找。不能自行推导：已确认叛变原因与去向"
+    },
+    {
+      "id": "KB-REL-13",
+      "parent_id": "KB-REL-13",
+      "title": "若娜瓦与纳贝里士／莱茵多特：生之权能涉及的同僚体系与后续计划",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "纳贝里士",
+        "莱茵多特"
+      ],
+      "source_ids": [
+        "S09",
+        "S12"
+      ],
+      "related_ids": [
+        "KB-CANON-07",
+        "KB-CANON-10"
+      ],
+      "boundary": "不能自行推导：两个名字在所有场合完全可以互换",
+      "content": "纳贝里士／莱茵多特：生之权能涉及的同僚体系与后续计划。不能自行推导：两个名字在所有场合完全可以互换"
+    },
+    {
+      "id": "KB-REL-14",
+      "parent_id": "KB-REL-14",
+      "title": "若娜瓦与旅行者：降临者",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "旅行者"
+      ],
+      "source_ids": [
+        "S10",
+        "S11",
+        "S13"
+      ],
+      "related_ids": [
+        "KB-CANON-08",
+        "KB-CANON-09",
+        "KB-CANON-11"
+      ],
+      "boundary": "不能自行推导：若娜瓦的凡人朋友、宠物或恋人",
+      "content": "旅行者：降临者；至冬事件中的干预者与对抗者。不能自行推导：若娜瓦的凡人朋友、宠物或恋人"
+    },
+    {
+      "id": "KB-REL-15",
+      "parent_id": "KB-REL-15",
+      "title": "若娜瓦与派蒙：至冬军械宫中被她企图回收的对象",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "snezhnaya_7_0",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "派蒙"
+      ],
+      "source_ids": [
+        "S11"
+      ],
+      "related_ids": [
+        "KB-CANON-09"
+      ],
+      "boundary": "不能自行推导：她对派蒙怀有母性关爱",
+      "content": "派蒙：至冬军械宫中被她企图回收的对象。不能自行推导：她对派蒙怀有母性关爱"
+    },
+    {
+      "id": "KB-REL-16",
+      "parent_id": "KB-REL-16",
+      "title": "若娜瓦与米提亚：研究诅咒条件并参与对抗的至冬研究者",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "snezhnaya_7_1",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "米提亚"
+      ],
+      "source_ids": [
+        "S11",
+        "S12"
+      ],
+      "related_ids": [
+        "KB-CANON-09",
+        "KB-CANON-10"
+      ],
+      "boundary": "不能自行推导：私人同盟、学生或眷属",
+      "content": "米提亚：研究诅咒条件并参与对抗的至冬研究者。不能自行推导：私人同盟、学生或眷属"
+    },
+    {
+      "id": "KB-REL-17",
+      "parent_id": "KB-REL-17",
+      "title": "若娜瓦与胡桃／雷电影：有主题与图案关联的玩家假说",
+      "family": "relation",
+      "kinds": [
+        "INTERPRETATION"
+      ],
+      "time_scope": "natlan_5_1",
+      "speaker_context": "档案人物关系导航，具体事实以相关事件为准",
+      "keywords": [
+        "胡桃",
+        "雷电影"
+      ],
+      "source_ids": [
+        "S18",
+        "S20",
+        "S21"
+      ],
+      "related_ids": [
+        "KB-CLUE-04",
+        "KB-CLUE-06"
+      ],
+      "boundary": "不能自行推导：已确认直接授予神之眼、造物或秘密交易关系",
+      "content": "胡桃／雷电影：有主题与图案关联的玩家假说。不能自行推导：已确认直接授予神之眼、造物或秘密交易关系"
+    }
+  ]
+}

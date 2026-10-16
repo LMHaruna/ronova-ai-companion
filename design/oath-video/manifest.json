@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "date": "2026-10-13",
+  "video": {
+    "file": "ceremony-silent.mp4",
+    "sha256": "aa020af38fdd2d95c044bf25dad881a659f3e26a914edc42e9a6a37aefa3e997"
+  },
+  "audio": {
+    "file": "narration.wav",
+    "sha256": "859e6859df04f3684dc5375609529e5e8bb9277f87e3bd83929ee2ed58030e2c"
+  },
+  "poster": {
+    "file": "poster.png",
+    "sha256": "65a4aa29afe74cef5b9b0c82bff5aa632b09c205e9db7a4e08bc3b0d00aaa2dd"
+  },
+  "ending": {
+    "file": "ending.png",
+    "sha256": "8caf5e3a8c38cb208270b638a8b540ee2517f85ffc0c8e0f0cfc6e79f243d8a2"
+  },
+  "canvas": [
+    1288,
+    1608
+  ],
+  "decode_size": [
+    644,
+    804
+  ],
+  "fps": 24,
+  "frame_count": 384,
+  "duration_seconds": 16.0,
+  "return_fade_seconds": 0.8,
+  "lines": [
+    "我代表的可是死亡。",
+    "可这一次……我愿意把手交给你。",
+    "帮我保密。"
+  ],
+  "line_times": [
+    2.0,
+    5.2,
+    11.2
+  ],
+  "beats": [
+    [
+      0,
+      "邀请",
+      "你向她伸出掌心。"
+    ],
+    [
+      4,
+      "回应",
+      "若娜瓦主动向前伸手。"
+    ],
+    [
+      7.2,
+      "相接",
+      "她的手轻轻落入你的掌心。"
+    ],
+    [
+      10.4,
+      "约定",
+      "掌心停稳，她抬眼直视你。"
+    ]
+  ],
+  "subtitle_ends": [
+    4.57,
+    10.09,
+    13.61
+  ],
+  "audio_clips": [
+    {
+      "text": "我代表的可是死亡。",
+      "start_seconds": 2.0,
+      "seconds": 2.32,
+      "source_sha256": "68980c7ba12da93403720f1203db9d9babd178147cd5dea618cd65d41531ef01"
+    },
+    {
+      "text": "可这一次……我愿意把手交给你。",
+      "start_seconds": 5.2,
+      "seconds": 4.64,
+      "source_sha256": "b543e065d29932419d1ddcd3a7be160b0c6c79eea4568240eed3d566dbf29fa5"
+    },
+    {
+      "text": "帮我保密。",
+      "start_seconds": 11.2,
+      "seconds": 2.16,
+      "source_sha256": "87deb122e31bacd1ca2bbfd7edc589b94e0b9d8aaf9cafe1e7174fc35eb1a0f5"
+    }
+  ],
+  "standalone_preview": {
+    "file": "ceremony-voiced.mp4",
+    "sha256": "aecbe91e7f4aeea611d132599db3e71c52975969943aaf99f52ee1974525f0e0",
+    "seconds": 16.8,
+    "canvas": [
+      1284,
+      1612
+    ],
+    "subtitle_track": "Chinese mov_text; also provided as ceremony.srt"
+  },
+  "runtime_audio": "single local PCM WAV routed through existing waveOut preferences",
+  "captions": {
+    "file": "dialogue-timing.json",
+    "sha256": "d0d1b01d919777157970fc396fe3db8dcbd3c511185360c3bafa9bae2bfa0004"
+  },
+  "captioned_preview": {
+    "file": "ceremony-captioned.mp4",
+    "sha256": "0634434a3e93c4e242c55d774f51319451e81915d3ada47f7d4c75566ebe01fb",
+    "seconds": 16.8,
+    "canvas": [
+      1284,
+      1612
+    ],
+    "subtitles": "burned in for direct viewing"
+  },
+  "native_body": {
+    "file": "ceremony-native.mp4",
+    "sha256": "e8177a11f0735519b0dadbeb58f0b6dc8fd735d7d76cbc304d73049444615810",
+    "seconds": 16.0,
+    "canvas": [
+      1284,
+      1612
+    ]
+  },
+  "lip_timing": {
+    "status": "sentence_onset_offset_pause_review_passed_with_limits",
+    "method": "Prompt-timed MiniMax clips followed by local piecewise full-frame resampling",
+    "generation_used_reference_audio": false,
+    "phoneme_level_verified": false
+  }
+}

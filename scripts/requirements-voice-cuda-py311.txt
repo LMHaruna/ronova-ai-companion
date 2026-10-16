@@ -1,0 +1,3 @@
+# Official Windows x64 / Python 3.11 CUDA 12.8 wheels; keep paired versions.
+torch==2.7.1+cu128 --hash=sha256:138c66dcd0ed2f07aafba3ed8b7958e2bed893694990e0b4b55b6b2b4a336aa6
+torchaudio==2.7.1+cu128 --hash=sha256:37a42de8c0f601dc0bc7dcccc4049644ef5adcf45920dd5813c339121e5b5a8c

@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "method": "local faster-whisper-small word timing; multi-character words split across measured word; first token corrected to PCM energy onset; punctuation follows spoken pause",
+  "lines": [
+    {
+      "text": "我代表的可是死亡。",
+      "start": 2.0,
+      "end": 4.32,
+      "voice_onset_seconds": 0.4,
+      "characters": [
+        {
+          "text": "我",
+          "at": 2.4
+        },
+        {
+          "text": "代",
+          "at": 2.58
+        },
+        {
+          "text": "表",
+          "at": 2.78
+        },
+        {
+          "text": "的",
+          "at": 3.02
+        },
+        {
+          "text": "可",
+          "at": 3.12
+        },
+        {
+          "text": "是",
+          "at": 3.24
+        },
+        {
+          "text": "死",
+          "at": 3.36
+        },
+        {
+          "text": "亡",
+          "at": 3.74
+        },
+        {
+          "text": "。",
+          "at": 4.04
+        }
+      ]
+    },
+    {
+      "text": "可这一次……我愿意把手交给你。",
+      "start": 5.2,
+      "end": 9.84,
+      "voice_onset_seconds": 0.86,
+      "characters": [
+        {
+          "text": "可",
+          "at": 6.06
+        },
+        {
+          "text": "这",
+          "at": 6.22
+        },
+        {
+          "text": "一",
+          "at": 6.46
+        },
+        {
+          "text": "次",
+          "at": 6.68
+        },
+        {
+          "text": "…",
+          "at": 6.9
+        },
+        {
+          "text": "…",
+          "at": 6.9
+        },
+        {
+          "text": "我",
+          "at": 7.86
+        },
+        {
+          "text": "愿",
+          "at": 8.14
+        },
+        {
+          "text": "意",
+          "at": 8.32
+        },
+        {
+          "text": "把",
+          "at": 8.46
+        },
+        {
+          "text": "手",
+          "at": 8.62
+        },
+        {
+          "text": "交",
+          "at": 8.9
+        },
+        {
+          "text": "给",
+          "at": 9.16
+        },
+        {
+          "text": "你",
+          "at": 9.38
+        },
+        {
+          "text": "。",
+          "at": 9.6
+        }
+      ]
+    },
+    {
+      "text": "帮我保密。",
+      "start": 11.2,
+      "end": 13.36,
+      "voice_onset_seconds": 0.6900000000000001,
+      "characters": [
+        {
+          "text": "帮",
+          "at": 11.89
+        },
+        {
+          "text": "我",
+          "at": 12.06
+        },
+        {
+          "text": "保",
+          "at": 12.26
+        },
+        {
+          "text": "密",
+          "at": 12.48
+        },
+        {
+          "text": "。",
+          "at": 12.76
+        }
+      ]
+    }
+  ],
+  "source_audio_sha256": "859e6859df04f3684dc5375609529e5e8bb9277f87e3bd83929ee2ed58030e2c",
+  "physical_audio": false,
+  "cloud_calls": 0
+}

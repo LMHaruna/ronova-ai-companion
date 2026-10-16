@@ -1,0 +1,16 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1284
+PlayResY: 1612
+ScaledBorderAndShadow: yes
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Microsoft YaHei,44,&H00F7F0F2,&H00F7F0F2,&H00352A30,&H50000000,0,0,0,0,100,100,0,0,1,2.5,1,2,42,42,70,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.00,0:00:04.57,Default,,0,0,0,,我代表的可是死亡。
+Dialogue: 0,0:00:05.20,0:00:10.09,Default,,0,0,0,,可这一次……我愿意把手交给你。
+Dialogue: 0,0:00:11.20,0:00:13.61,Default,,0,0,0,,帮我保密。

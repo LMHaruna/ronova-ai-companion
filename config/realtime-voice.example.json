@@ -1,0 +1,8 @@
+{
+  "model": "qwen-audio-3.1-realtime-plus",
+  "url": "wss://maas.qianwenaiapi.com/api-ws/v1/realtime",
+  "voice": "longanqian",
+  "key_environment": "DASHSCOPE_API_KEY",
+  "default_backend": "qwen",
+  "enable_speech_emotion": false
+}

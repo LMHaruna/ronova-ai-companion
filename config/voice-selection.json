@@ -1,0 +1,19 @@
+{
+  "engine": "GPT-SoVITS",
+  "version": "v2ProPlus",
+  "reference_id": "C",
+  "reference_audio": "voice-reference/prepared/C.wav",
+  "device": "auto",
+  "pronunciation_rules": [
+    {
+      "phrase": "倒是",
+      "pinyin": [
+        "dao4",
+        "shi4"
+      ],
+      "scope": "Sentence-position phrase override before word lookup; other 倒 uses preserved"
+    }
+  ],
+  "default_backend": "qwen",
+  "default_model": "qwen-audio-3.1-realtime-plus"
+}
